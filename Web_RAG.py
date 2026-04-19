@@ -11,7 +11,7 @@ st.set_page_config(page_title="RAG AI Super", page_icon="🧠")
 st.title("🧠 Mesin RAG: Penakluk Dokumen Raksasa")
 st.write("Upload PDF tebal lu! Otak AI ngga bakal meledak karena kita pakai Vector Database!")
 
-KUNCI_RAHASIA = "AIzaSyD1iFvgj_jEM9B2bua-aCTgysGvatbDkIU"
+KUNCI_RAHASIA = ""
 os.environ["GOOGLE_API_KEY"] = KUNCI_RAHASIA
 
 @st.cache_resource
