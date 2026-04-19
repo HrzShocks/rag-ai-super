@@ -5,3 +5,4 @@ langchain-google-genai
 langchain-community
 chromadb
 google-genai
+protobuf==3.20.3
